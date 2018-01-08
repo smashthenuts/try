@@ -1,2 +1,2 @@
-#Git Basics
+#GitBasics
 This is git basics
